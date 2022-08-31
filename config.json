@@ -1,0 +1,15 @@
+{
+    "db_host": "127.0.0.1",
+    "db_port": "3306",
+    "db_name": "upt1",
+    "db_user": "root",
+    "db_password": "123321",
+    "user_default": "admin",
+    "password_default": "123456",
+    "api_host": "127.0.0.1",
+    "api_port": "6001",
+    "web_url": "http://localhost",
+    "web_port": "7030",
+    "chart_url": "http://localhost",
+    "chart_port": "6003"
+}
